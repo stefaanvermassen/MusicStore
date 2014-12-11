@@ -31,7 +31,7 @@ This project is part of ASP.NET vNext. You can find samples, documentation and g
 
 ### Run Tests:
 * Open a command prompt and cd ```\test\E2ETests\```
-* Execute ``kpm restore```
+* Execute ```kpm restore```
 * Set KRE_ENV environment variable to "SocialTesting"
 * Run ```k test```
 
